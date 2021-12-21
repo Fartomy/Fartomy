@@ -20,5 +20,5 @@
 <br/>
 <br/>
 ## My Games
-- [Volant Clown](https://play.google.com/store/apps/developer?id=Watourglass)
+- ![/main/gamelogo.png](https://play.google.com/store/apps/developer?id=Watourglass)
 - Processing..
