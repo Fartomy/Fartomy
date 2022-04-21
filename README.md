@@ -1,4 +1,5 @@
 <img src="https://www.sleepinggiantmedia.co.uk/wp-content/uploads/bored-time-Sticker-by-Anthony-Antonellis-downsized_large.gif" align="right" height="400">
+
 # Contents
 - Everything
 
@@ -6,7 +7,8 @@
     - It can be game
     
       - And some music
-     - Or information
+
+    - Or information
    - Just need time
   
  - For everything
