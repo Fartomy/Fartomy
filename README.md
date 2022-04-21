@@ -1,5 +1,4 @@
 <img src="https://www.sleepinggiantmedia.co.uk/wp-content/uploads/bored-time-Sticker-by-Anthony-Antonellis-downsized_large.gif" align="right" height="400">
-
 # Contents
 - Everything
 
@@ -19,6 +18,8 @@
 <br/>
 <br/>
 <br/>
+
+![image](https://www.codewars.com/users/afurkan/badges/large)
 
 ## My Games
 - [<img align="center"  src="https://user-images.githubusercontent.com/58911876/147000622-24daa5f9-d53b-4dbc-a58d-d2da4ef0974c.png" width="20" height="20" />](https://play.google.com/store/apps/developer?id=Watourglass) - [Volant Clown](https://play.google.com/store/apps/developer?id=Watourglass)
