@@ -25,5 +25,8 @@
 ![image](https://www.codewars.com/users/afurkan/badges/micro)
 
 ## My Games
-- [<img align="center"  src="https://github.com/Fartomy/Fartomy/blob/main/images/volantclown.png" width="20" height="20" />](https://play.google.com/store/apps/developer?id=Watourglass) - [Volant Clown](https://play.google.com/store/apps/developer?id=Watourglass)
-- Processing..
+
+| Logo          | Name          | Release Date  |
+| :-------------: |:-------------:| :-------------: |
+| [<img align="center"  src="https://github.com/Fartomy/Fartomy/blob/main/images/volantclown.png" width="50" height="50" />](https://play.google.com/store/apps/developer?id=Watourglass)      | [Volant Clown](https://play.google.com/store/apps/developer?id=Watourglass) | 2020         |
+| Processing..  | Processing..    |     -         |
