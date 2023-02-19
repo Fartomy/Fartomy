@@ -4,11 +4,11 @@
 - Everything
 
   - But usually
-    - It can be game
+    - It can be [game](https://learn.unity.com/u/5ef45eccedbc2a001fb1037f?tab=profile)
     
-      - And some music
+      - And some [music](https://open.spotify.com/user/a2pfvx7mktdo942m2xcdxs5l1?si=3f57fac6eb1d4642)
 
-    - Or information
+    - Or [information](https://gist.github.com/Fartomy)
    - Just need time
   
  - For everything
