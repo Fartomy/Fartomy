@@ -28,6 +28,6 @@
 
 | Logo          | Name          | Platform | Release Date  |
 | :-------------: |:-------------:| :-------------: | :-------------: |
-| [<img align="center"  src="https://github.com/Fartomy/Fartomy/blob/main/images/volantclown.png" width="50" height="50" />](https://play.google.com/store/apps/developer?id=Watourglass)      | [Volant Clown](https://play.google.com/store/apps/developer?id=Watourglass) | Mobile |2020         |
+| [<img align="center"  src="https://github.com/Fartomy/Fartomy/blob/main/images/volantclown.png" width="50" height="50" />](https://play.google.com/store/apps/details?id=com.Watourglass.VolantClown)      | [Volant Clown](https://play.google.com/store/apps/details?id=com.Watourglass.VolantClown) | Mobile |2020         |
 | [<img align="center"  src="https://github.com/Fartomy/Fartomy/blob/main/images/barbal.jpg" width="50" height="50" />](https://play.google.com/store/apps/details?id=com.watourglass.barbal)      | [Barbal](https://play.google.com/store/apps/details?id=com.watourglass.barbal) | Mobile | 2023         |
 | Processing..  | -    | - |     -         |
