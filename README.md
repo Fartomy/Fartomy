@@ -1,11 +1,5 @@
 <img src="https://github.com/Fartomy/Fartomy/blob/main/images/time.gif" align="right" height="400">
 
-<!-- 
-&nbsp; 1 bosluk ekler
-&ensp; 2 bosluk ekler
-&emsp; 4 bosluk ekler
--->
-
 # Contents
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=30000&pause=1000&color=FFFFFFFF&width=500&height=30&lines=Everything;But+usually;It+can+be+game;And+some+music;Or+information;Just+need+time;For+everything;time;⌛)](https://git.io/typing-svg)
 
