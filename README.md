@@ -1,4 +1,4 @@
-<img src="https://github.com/Fartomy/Fartomy/blob/main/images/time.gif" align="right" height="300">
+<img src="https://github.com/Fartomy/Fartomy/blob/main/images/time.gif" align="right" height="200">
 
 # Contents
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=30000&pause=1000&color=FFFFFFFF&width=500&height=30&lines=Everything;But+usually;It+can+be+game;And+some+music;Or+information;Just+need+time;For+everything;time;⌛)](https://git.io/typing-svg)
