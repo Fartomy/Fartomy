@@ -31,10 +31,18 @@
 <br/>
 <br/>
 
+## Badges
 ![image](https://www.codewars.com/users/afurkan/badges/micro)
+[<img align="left"  src="https://github.com/Fartomy/Fartomy/blob/main/images/unity-essentials-pathway.png" width="100" height="100" />](https://www.credly.com/badges/cf92bc5b-d244-498b-bbd8-7d4b59098e3f/public_url)
+[<img align="left"  src="https://github.com/Fartomy/Fartomy/blob/main/images/unity-junior-programmer.png" width="100" height="100" />](https://www.credly.com/badges/6d084612-0c97-4a39-b9d2-7e809b1d5c74/public_url)
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 
 ## My Games
-
 | Logo          | Name          | Platform | Release Date  |
 | :-------------: |:-------------:| :-------------: | :-------------: |
 | [<img align="center"  src="https://github.com/Fartomy/Fartomy/blob/main/images/volantclown.png" width="50" height="50" />](https://play.google.com/store/apps/details?id=com.Watourglass.VolantClown)      | [Volant Clown](https://play.google.com/store/apps/details?id=com.Watourglass.VolantClown) | Mobile |2020         |
