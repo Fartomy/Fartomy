@@ -47,6 +47,7 @@
 ## My Games
 | Logo          | Name          | Platform | Release Date  |
 | :-------------: |:-------------:| :-------------: | :-------------: |
-| [<img align="center"  src="https://github.com/Fartomy/Fartomy/blob/main/images/volantclown.png" width="50" height="50" />](https://github.com/Fartomy/Volant-Clown)      | [Volant Clown](https://github.com/Fartomy/Volant-Clown) | Mobile |2020         |
-| [<img align="center"  src="https://github.com/Fartomy/Fartomy/blob/main/images/barbal.jpg" width="50" height="50" />](https://github.com/Fartomy/Barbal)      | [Barbal](https://github.com/Fartomy/Barbal) | Mobile | 2023         |
+| [<img align="center"  src="https://github.com/Fartomy/Fartomy/blob/main/images/volantclown.png" width="50" height="50" />](https://github.com/Fartomy/Volant-Clown) | [Volant Clown](https://github.com/Fartomy/Volant-Clown) | Mobile | 2020 |
+| [<img align="center"  src="https://github.com/Fartomy/Fartomy/blob/main/images/barbal.jpg" width="50" height="50" />](https://github.com/Fartomy/Barbal) | [Barbal](https://github.com/Fartomy/Barbal) | Mobile | 2023 |
+| [<img align="center"  src="https://github.com/Fartomy/Fartomy/blob/main/images/daily-routine-image.jpg" width="50" height="50" />](https://github.com/Fartomy/Daily-Routine)  | [Daily Routine](https://github.com/Fartomy/Daily-Routine) | PC | 2026 |
 | Processing..  | -    | - |     -         |
